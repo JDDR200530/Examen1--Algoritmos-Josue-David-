@@ -23,4 +23,5 @@ const listado = [];
         edad: parseInt(prompt('Ingrese la edad del Alumno')),
         calificacion: parseFloat(prompt('Ingrese la calificacion del alumno ')),
     }
+    listado.push(alumno1,alummo2,alumno3)
     console.log(listado);
